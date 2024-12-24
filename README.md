@@ -8,5 +8,8 @@ conclusion: by analyzing data we come to know comedy is the best movie type for 
 This is tablaue data viz on movie data set:
 
 [Tablaue Data viz](https://public.tableau.com/views/profitablemovie_17349594311500/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 [Data set with pi chart](https://docs.google.com/spreadsheets/d/1jAqo67WTc4ezwrYdx6QTV32j1dnjxPpDQBCOjOtIDKk/edit?gid=0#gid=0)
+
 [spreadsheet data viz with calculations](https://docs.google.com/spreadsheets/d/1jAqo67WTc4ezwrYdx6QTV32j1dnjxPpDQBCOjOtIDKk/edit?gid=2000002#gid=2000002)
+
