@@ -5,7 +5,8 @@ some names of movies are not in cel, but by clicking web links provided in the s
 by using a pivot table we can calculate the sum of the budget of each type of movie and the sum of box office revenue.
 also, we can calculate the average budget, average box office revenue, and profit percentage of each type of revenue.
 conclusion: by analyzing data we come to know comedy is the best movie type for investment. profit percentage of comedy is 8.2% of whole types of movies.
-This is tablaue data viz on movie data set:[link]
+This is tablaue data viz on movie data set:
 https://public.tableau.com/views/profitablemovie_17349594311500/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 calculations:file:///C:/Users/Admin/AppData/Local/Temp/b17b5b9b-e225-4350-ab33-c98a9638684d_Copy%20of%20Copy%20of%20Movie%20Data%20Starter%20Project2%23.zip.84d/Pivot%20Table%207.html
 https://docs.google.com/spreadsheets/d/1jAqo67WTc4ezwrYdx6QTV32j1dnjxPpDQBCOjOtIDKk/edit?gid=2000002#gid=2000002
+[link](https://public.tableau.com/views/profitablemovie_17349594311500/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
